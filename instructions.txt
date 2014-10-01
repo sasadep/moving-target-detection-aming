@@ -1,0 +1,3 @@
+To use the program is just run the project.m file using matlab. (other file must be in the same folder)
+
+**** matlab app Image Acquisition Toolbox is required to capture the image using matlab.
